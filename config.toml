@@ -1,0 +1,37 @@
+baseURL = "http://massotgil.com/"
+languageCode = "en-us"
+title = "Fruites i Verdures Massot Gil"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/massotgil/"
+  twitter = ""
+  instagram = "https://www.instagram.com/fruitesiverduresmassotgil/"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-whitness"
+  logo_image = "/images/logo.png"
+  # featured_image = "/images/default-sample-hero-image.jpg"
+  recent_posts_number = 2
+  custom_css = ["css/custom.css"]
+  body_classes = "signika"

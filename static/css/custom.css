@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Signika:400,600,700&display=swap');
+
+html{
+    font-family: 'Signika', sans-serif;
+}
+
+header h1.light-silver{
+    font-weight: 700;
+    color: #000;
+}
+
+header h2.white-80{
+    color: #4a5827;
+}
+.logo__image{
+    max-width: 200px;
+}
+
+.bg-whitness{
+    background-color: #efead8;
+}
+
+footer.bg-whitness{
+    background-color: #4a5827;
+}
+
+main article.mid-gray ul{
+    list-style: none !important;
+    padding-left: 0;
+}
+main a{
+    color: #4a5827;
+    text-decoration: none;
+}
+main a:hover{
+    text-decoration: underline;
+}
