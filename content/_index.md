@@ -1,6 +1,6 @@
 ---
 title: "Massot Gil"
-# featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: ''
 description: "Parada de Fruites i Verdues als mercats setmanals de l'Alt Empordà"
 ---
 

@@ -24,8 +24,9 @@ footer.bg-whitness{
     background-color: #4a5827;
 }
 
-main ul{
-    list-style: none;
+main article.mid-gray ul{
+    list-style: none !important;
+    padding-left: 0;
 }
 main a{
     color: #4a5827;
